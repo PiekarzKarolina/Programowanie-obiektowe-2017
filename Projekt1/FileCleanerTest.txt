@@ -1,0 +1,8 @@
+aaaa
+@BOOK{ bbc
+a{a}
+a
+}
+@book{ }
+@NOTaBOOK{ abc
+}

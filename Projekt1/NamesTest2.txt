@@ -1,0 +1,51 @@
+
+@ARTICLE{article-minimalb,
+   author = "bb CC, AA",
+   title = "",
+   journal = "",
+   year = "",
+}
+
+@ARTICLE{article-minimalbb,
+   author = "bb CC, aa",
+   title = "",
+   journal = "",
+   year = "",
+}
+@ARTICLE{article-minimalab,
+   author = "bb CC dd EE, AA",
+   title = "",
+   journal = "",
+   year = "",
+}
+@ARTICLE{article-minimalabb,
+   author = "bb, AA",
+   title = "",
+   journal = "",
+   year = "",
+}
+@ARTICLE{article-minimalabbb,
+   author = "BB,",
+   title = "",
+   journal = "",
+   year = "",
+}
+@ARTICLE{article-minimalabbbb,
+   author = "bb CC,XX, AA",
+   title = "",
+   journal = "",
+   year = "",
+}
+
+@ARTICLE{article-minimalabbbbc,
+   author = "bb CC,xx, AA",
+   title = "",
+   journal = "",
+   year = "",
+}
+@ARTICLE{article-minimalabbbbcc,
+   author = "BB,, AA",
+   title = "",
+   journal = "",
+   year = "",
+}

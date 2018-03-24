@@ -1,0 +1,6 @@
+@STRING{ a = "Ala"}
+@STRING{ b = "kota"}
+@BOOK{
+author = a,
+title = a # "ma" # b,
+}

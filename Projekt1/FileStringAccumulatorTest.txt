@@ -1,0 +1,3 @@
+@string{ aaa = "Ala ma kota."}
+@book{}
+@string{ bbb = "Alicja"}

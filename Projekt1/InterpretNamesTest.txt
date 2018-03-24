@@ -1,0 +1,6 @@
+@MANUAL{aaa,
+author = "Michael Knuth"
+}
+@MANUAL{bbb,
+author = "Knuth, Michael"
+}

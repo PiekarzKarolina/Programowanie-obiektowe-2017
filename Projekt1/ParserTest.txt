@@ -1,0 +1,7 @@
+@BOOK{aaa-crossref,
+author = "Ala",
+crossref = aaa,
+}
+@BOOK{aaa,
+title = "Ala ma kota"
+}

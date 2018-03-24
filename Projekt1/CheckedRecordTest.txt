@@ -1,0 +1,6 @@
+@MANUAL{aaa,
+title = "Ala ma kota.",
+}
+@MANUAL{bbb,
+author = "Ala",
+}
