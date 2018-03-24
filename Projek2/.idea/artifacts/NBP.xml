@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="NBP">
+    <output-path>$PROJECT_DIR$/out/artifacts/NBP</output-path>
+    <root id="archive" name="Projek2.jar">
+      <element id="module-output" name="Projek2" />
+    </root>
+  </artifact>
+</component>
